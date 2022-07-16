@@ -1,4 +1,4 @@
-# Example app with GSAP
+# Example app with GSAP vs framer-Motion
 
 This example features how to use [GSAP](https://greensock.com/gsap/) as the animation library within a Next.js app.
 
